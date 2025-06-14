@@ -97,9 +97,13 @@ This project was developed as **Task 1** under the **Next24tech AICTE Internship
 ## 📧 Contact
 
 **Sampathirao Kavya**
+
 Email: [kavs14345@gmail.com](mailto:kavs14345@gmail.com)
+
 Program: B.Tech CSE, JNTU-GV
+
 Internship ID: NIP/2025/05A001
+
 Mentor: Next24tech Technologies Pvt. Ltd.
 
 ---
