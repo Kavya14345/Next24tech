@@ -1,4 +1,3 @@
----
 
 # 🌿 Plant Leaf Disease Detection System using AI Algorithms
 
