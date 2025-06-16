@@ -72,7 +72,10 @@ This ensures added safety for real-time use.
 
 ## 🖼️ Sample Output
 
-> Detected lanes will be highlighted in yellow lines drawn over the road footage.
+
+
+https://github.com/user-attachments/assets/25748068-4a50-422c-ac40-38839977873d
+
 
 ---
 
