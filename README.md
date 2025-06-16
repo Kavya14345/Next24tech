@@ -173,8 +173,13 @@ Each task strengthened my understanding of AI’s potential in **transport**, **
 ## 📧 Contact
 
 **Sampathirao Kavya**
+
 AI/ML Developer Intern
+
 Email: [kavs14345@gmail.com](mailto:kavs14345@gmail.com)
+
 College: JNTU-GV University
+
 Intern ID: NIP/2025/05A001
+
 Mentor: *Next24tech Technologies Pvt. Ltd.*
