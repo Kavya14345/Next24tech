@@ -105,7 +105,13 @@ SummerHeatwaveAlertSystem/
 * `pandas`, `scikit-learn`, `flask`, `kivy`, `pygame`, `requests`, `joblib`
 
 ---
+### 🔉 Output Demo
 
+
+https://github.com/user-attachments/assets/7acf84d6-897c-4029-839e-3c55d268fa0f
+
+
+---
 ### ✅ Outcome
 
 * The system can **accurately flag heatwave years**
