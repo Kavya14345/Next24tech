@@ -1,0 +1,7 @@
+pandas
+joblib
+scikit-learn
+flask
+flask-cors
+kivy
+requests
